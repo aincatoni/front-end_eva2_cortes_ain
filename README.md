@@ -2,6 +2,22 @@
 
 Rediseño del home de la Municipalidad de Cholchol para Evaluación Sumativa U2 (Desarrollo Frontend).
 
+## Enlaces
+
+- Repositorio: https://github.com/aincatoni/front-end_eva2_cortes_ain
+- GitHub Pages: https://aincatoni.github.io/front-end_eva2_cortes_ain/
+- Google Sheets (recolección de datos del formulario): https://docs.google.com/spreadsheets/d/1broSto2pEq3Z82ay23xEbd1yQGQodhtgatMhmbgjSJ0/edit?gid=0#gid=0
+
+## Capturas
+
+### Sitio
+
+![Captura del sitio](img/screenshot.jpeg)
+
+### Respuestas en Google Sheets
+
+![Captura del Google Sheets](img/formulario_google_sheets.png)
+
 ## Estructura
 
 - `index.html`: estructura semántica de las 8 secciones solicitadas.
